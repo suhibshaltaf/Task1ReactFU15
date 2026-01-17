@@ -4,7 +4,7 @@ import logo from '../assets/image/avataaars.svg';
 
 export default function Hero() {
   return (
-    <section id="hero" className={`${styles.hero}  vh-100 d-flex align-items-center`}>
+    <section id="Hero" className={`${styles.hero}  vh-100 d-flex align-items-center`}>
       <div className="container text-center text-white d-flex flex-column justify-content-center align-items-center  ">
 
         <img src={logo} alt="avatar" className="w-25 mb-4" />
