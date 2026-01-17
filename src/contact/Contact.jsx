@@ -3,7 +3,7 @@ import styles from './contact.module.css';
 
 export default function Contact() {
   return (
-    <section id="contact" className={`py-5 ${styles.contact}`}>
+    <section id="Contact" className={`py-5 ${styles.contact}`}>
       <div className="container">
 
         <h2 className="text-center fw-bold mb-4">

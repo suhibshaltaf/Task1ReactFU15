@@ -1,0 +1,32 @@
+.footer {
+  background-color: rgb(44, 62, 80);
+  padding: 60px 0;
+}
+
+.icon {
+  width: 45px;
+  height: 45px;
+  border: 2px solid white;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 18px;
+  transition: 0.3s;
+}
+
+
+
+.link {
+  color: #1abc9c;
+  cursor: pointer;
+}
+
+.copy {
+  background-color: #1a252f;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+  font-size: 14px;
+}
