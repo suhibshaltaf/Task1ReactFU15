@@ -1,0 +1,49 @@
+.contact {
+  color: rgb(44, 62, 80);
+}
+
+.divider {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.line {
+  width: 120px;
+  height: 4px;
+  background-color: rgb(44, 62, 80);
+  border-radius: 2px;
+}
+
+.star {
+  font-size: 32px;
+  line-height: 1;
+}
+
+.formGroup {
+  margin-bottom: 2rem;
+}
+
+.input,
+.textarea {
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid #ced4da;
+  padding: 12px 0;
+  font-size: 1.1rem;
+  outline: none;
+}
+
+
+
+.btnSend {
+  background-color: #1abc9c;
+  color: white;
+  border: none;
+  padding: 12px 28px;
+  font-size: 1.1rem;
+  border-radius: 6px;
+}
+
+
