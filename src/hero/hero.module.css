@@ -1,0 +1,25 @@
+.hero {
+  background-color: #1abc9c;
+}
+
+.divider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.line {
+  width: 120px;
+  height: 4px;
+  background-color: white;
+  border-radius: 2px;
+}
+
+.star {
+  font-size: 32px;
+  color: white;
+  line-height: 1;   
+  display: flex;    
+  align-items: center;
+}
