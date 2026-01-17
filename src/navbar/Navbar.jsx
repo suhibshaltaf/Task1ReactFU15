@@ -16,10 +16,10 @@ export default function Navbar() {
           <a className="nav-link text-white active" aria-current="page" href="#Portfolio">Portfolio</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link text-white" href="#">About</a>
+          <a className="nav-link text-white" href="#About">About</a>
         </li>
          <li className="nav-item">
-          <a className="nav-link text-white" href="#">Contact</a>
+          <a className="nav-link text-white" href="#Contact">Contact</a>
         </li>
        
        
